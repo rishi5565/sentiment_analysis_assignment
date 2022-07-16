@@ -5,5 +5,4 @@ gensim
 matplotlib
 flask
 flask_cors
-pickle
 gunicorn
